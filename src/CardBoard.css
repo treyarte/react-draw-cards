@@ -1,0 +1,12 @@
+.draw-btn {
+  margin: 1rem;
+}
+
+.draw-btn button {
+  background-color: #1b1919;
+  color: #f8eeb4;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 3%;
+  box-shadow: 0.1rem 0rem 0.01rem #323232;
+}
